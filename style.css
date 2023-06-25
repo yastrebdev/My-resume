@@ -944,6 +944,12 @@ h3 {
   text-decoration: underline;
 }
 
+.exp__pl3 > a {
+  font-weight: 900;
+  color: #25262c;
+  text-decoration: underline;
+}
+
 .exp__pl2 {
   margin-bottom: 30px;
 }
