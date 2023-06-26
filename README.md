@@ -6,4 +6,5 @@
 Greetings! I described myself and my skills on my resume site - [click](https://yastrebdev.github.io/My-resume/)
 
 > my telegram - [@yastrebbov](https://t.me/yastrebbov)
+> 
 > my tenchat - [@yastrebdev](https://tenchat.ru/yastrebdev)
